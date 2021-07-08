@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MEH.Teste.API</name>
+    </assembly>
+    <members>
+        <member name="M:MEH.Teste.API.Controllers.TestErrorController.Get">
+            <summary>
+            Gera uma exception para testes.
+            </summary>
+        </member>
+    </members>
+</doc>
